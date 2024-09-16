@@ -1,0 +1,4 @@
+[submodule "libunifex"]
+	path = libunifex
+	url = https://github.com/facebookexperimental/libunifex
+	branch = coroutine_async_stack_support
